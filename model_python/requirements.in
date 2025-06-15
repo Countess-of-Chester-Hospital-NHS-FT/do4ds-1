@@ -1,0 +1,5 @@
+# run time requirements
+jupyter
+scikit-learn
+pandas
+palmerpenguins
