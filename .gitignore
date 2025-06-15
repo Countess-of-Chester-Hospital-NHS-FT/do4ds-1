@@ -1,0 +1,7 @@
+eda_R/.Rproj.user/
+eda_R/eda-basic_files/
+eda_R/renv/
+
+*.Rhistory
+*.RProfile
+*.html
