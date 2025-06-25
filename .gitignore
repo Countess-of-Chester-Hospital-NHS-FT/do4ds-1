@@ -2,6 +2,8 @@ eda_R/.Rproj.user/
 eda_R/eda-basic_files/
 eda_R/renv/
 
+model_python/model-basic-py_files/
+
 *.Rhistory
 *.RProfile
 *.html
